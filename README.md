@@ -1,3 +1,5 @@
+ [![Build Status](https://travis-ci.com/rolandli2012/Ansible_Automation.svg?branch=master)](https://travis-ci.com/rolandli2012/Ansible_Automation)
+
 # Ansible_Automation
 
 ## Ansible module for export Azure Subscription Inventory for playbook. 
