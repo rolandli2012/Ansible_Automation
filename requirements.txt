@@ -3,6 +3,17 @@
 # packages.  Thus, this should be the loosest set possible (only required
 # packages, not optional ones, and with the widest range of versions that could
 # be suitable)
+azure-common
+azure-mgmt-authorization
+azure-mgmt-compute
+azure-mgmt-network
+azure-mgmt-nspkg
+azure-mgmt-resource
+azure-mgmt-storage
+azure-mgmt-subscription
+azure-nspkg
+keyring
+keyrings.alt
 jinja2
 PyYAML
 paramiko
