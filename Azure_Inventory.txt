@@ -1,0 +1,93 @@
+Azure Subscription Inventory Report
+
+List Subscription
+	Name: cloud-shell-storage-southeastasia
+	Id: /subscriptions/e8d1bf2b-7104-4b06-aba6-ca9d2655c245/resourceGroups/cloud-shell-storage-southeastasia
+	Location: southeastasia
+
+
+List VMs in resource group
+	VM: RolandServer
+
+
+List Virtual Network in resource group
+	Virtual Network: cloud-shell-storage-southeastasia-vnet
+
+List Subnets in cloud-shell-storage-southeastasia-vnet
+	Subnets: default
+
+List Network Groups in resource group
+	Network Security Groups: RolandServer-nsg
+	Network Security Groups: Roland_Network_Test
+
+List Vnics in resource group
+	Network Interface Card: rolandserver102
+
+List Storage Accounts	Storage Account: cs1e8d1bf2b7104x4b06xaba
+
+List Storage Accounts	Storage Account: cloudshellstoragesout510
+
+List Storage Blobs in cloudshellstoragesout510
+	Storage Blob: bootdiagnostics-rolandser-a4bc8c8e-604a-48fc-8767-7e6e2ed27e28
+Azure Subscription Inventory Report
+
+List Subscription
+	Name: cloud-shell-storage-southeastasia
+	Id: /subscriptions/e8d1bf2b-7104-4b06-aba6-ca9d2655c245/resourceGroups/cloud-shell-storage-southeastasia
+	Location: southeastasia
+
+
+List VMs in resource group
+	VM: RolandServer
+
+
+List Virtual Network in resource group
+	Virtual Network: cloud-shell-storage-southeastasia-vnet
+
+List Subnets in cloud-shell-storage-southeastasia-vnet
+	Subnets: default
+
+List Network Groups in resource group
+	Network Security Groups: RolandServer-nsg
+	Network Security Groups: Roland_Network_Test
+
+List Vnics in resource group
+	Network Interface Card: rolandserver102
+
+List Storage Accounts	Storage Account: cs1e8d1bf2b7104x4b06xaba
+
+List Storage Accounts	Storage Account: cloudshellstoragesout510
+
+List Storage Blobs in cloudshellstoragesout510
+	Storage Blob: bootdiagnostics-rolandser-a4bc8c8e-604a-48fc-8767-7e6e2ed27e28
+Azure Subscription Inventory Report
+
+List Subscription
+	Name: cloud-shell-storage-southeastasia
+	Id: /subscriptions/e8d1bf2b-7104-4b06-aba6-ca9d2655c245/resourceGroups/cloud-shell-storage-southeastasia
+	Location: southeastasia
+
+
+List VMs in resource group
+	VM: RolandServer
+
+
+List Virtual Network in resource group
+	Virtual Network: cloud-shell-storage-southeastasia-vnet
+
+List Subnets in cloud-shell-storage-southeastasia-vnet
+	Subnets: default
+
+List Network Groups in resource group
+	Network Security Groups: RolandServer-nsg
+	Network Security Groups: Roland_Network_Test
+
+List Vnics in resource group
+	Network Interface Card: rolandserver102
+
+List Storage Accounts	Storage Account: cs1e8d1bf2b7104x4b06xaba
+
+List Storage Accounts	Storage Account: cloudshellstoragesout510
+
+List Storage Blobs in cloudshellstoragesout510
+	Storage Blob: bootdiagnostics-rolandser-a4bc8c8e-604a-48fc-8767-7e6e2ed27e28

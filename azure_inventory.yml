@@ -1,0 +1,11 @@
+---
+- name: test my new module
+  connection: local
+  hosts: localhost
+  tasks:
+  - name: Output Azure Inventory 
+    azure_inventry:
+      subscription: 'e8d1bf2b-7104-4b06-aba6-ca9d2655c245'
+      tenant: '6e01adb5-e2d8-4220-80f5-0c1df21627e1'
+      client: 'f2771a55-35d2-44ce-81aa-1f81ea769af2'
+      secret: 'rMsVSBF/MA87KIYWZz2cyDqhIksezS73vz4nh+mXldk='
